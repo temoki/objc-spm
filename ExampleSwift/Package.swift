@@ -11,7 +11,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "../"),
+        .package(url: "https://github.com/temoki/objc-spm.git", branch: "main")
     ],
     targets: [
         .executableTarget(
