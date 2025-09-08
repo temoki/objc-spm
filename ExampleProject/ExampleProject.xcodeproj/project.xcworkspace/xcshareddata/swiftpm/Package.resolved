@@ -1,0 +1,15 @@
+{
+  "originHash" : "450a2ee0943e572d161f99811a0d196bff6af64828c2c4ef593574875b6a6a79",
+  "pins" : [
+    {
+      "identity" : "objc-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/temoki/objc-spm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5115cf34a7e730cd2b08348408f578f0fcb1df45"
+      }
+    }
+  ],
+  "version" : 3
+}
